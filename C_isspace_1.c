@@ -4,7 +4,7 @@
 int main(void)
 {
 	char a;
-	printf("¾Æ¹«°Å³ª ÀÔ·ÂÇÏ½Ã¿À. : ");
+	printf("ì•„ë¬´ê±°ë‚˜ ìž…ë ¥í•˜ì‹œì˜¤. : ");
 	scanf_s("%c", &a, sizeof(a));
 	printf("%d\n", isspace(a));
 
